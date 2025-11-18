@@ -1,6 +1,0 @@
-This is from master branch
-This is from stage branch
-Hi
-Hello
-This is from dev branch
-Hi this is from stage branch
