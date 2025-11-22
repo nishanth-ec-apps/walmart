@@ -1,9 +1,11 @@
 hi
 hello
-
 I'm making changes 
 to see how git merge 
 integrates
 dev branch to master branch
 this i'm using to test cherry-pick command
 the second commit I'm going to perform by updating this line
+Git pull command demo
+
+Git fetch demo
